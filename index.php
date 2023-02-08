@@ -8,7 +8,7 @@ if (isset($_GET['q']) && is_numeric($_GET['q']) && $_GET['q'] >= 1 && $_GET['q']
     $q = $_GET['q'];
     include('pages/question-' . $q . '.php');
 } else {
-    echo '<h3>Please choose a question</h4>';
+    echo '<h5>Please choose a question</h5>';
 }
 include('includes/footer.php');
 ?>

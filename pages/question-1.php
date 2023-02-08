@@ -1,5 +1,10 @@
 <h3>Question 1</h3>
 <p><i>Use HTML and JavaScript to create a webpage that prints the numbers from 1 to 100</i></p>
+<p><i>
+▪ When the number is a multiple of 3 print "Switch"<br>
+▪ When the number is a multiple of 5 print "Telecom"<br>
+▪ When the number is a multiple of 3 and 5 print "Switch Telecom"<br>
+</i></p>
 <hr size="1" />
 <br>
 

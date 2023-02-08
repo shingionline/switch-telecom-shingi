@@ -25,7 +25,7 @@ $i = array_rand($strings);
 $string = $strings[$i];
 
 // print the chosen string
-echo "$string <br><hr size='1' /><br>";
+echo "$string <br><hr size='1' />";
 
 if (strpos($string, '@') !== false) {
 
