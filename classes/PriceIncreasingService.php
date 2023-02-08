@@ -7,3 +7,4 @@ class PriceIncreasingService
         return $object->increasePrice($percentage);
     }
 }
+

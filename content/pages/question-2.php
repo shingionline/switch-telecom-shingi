@@ -16,7 +16,7 @@ $strings = ['hello everyone this string has shingi2009@gmail.com as the email ad
            'amazon',
            'mike@yahoo.com jumped over the car',
            'another string with no email',
-           'salesg@gmail.com',
+           'sales@gmail.com',
            'i have a secret email mary.jane@microsoft.com can you find it?'];
 
 // get random string
