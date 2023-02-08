@@ -8,6 +8,12 @@ require 'classes\Widget.php';
 require 'classes\Doodad.php';
 ?>
 
-<p><img src="images\price-increase-service.jpg"></p>
+<p><img src="images\01.jpg"></p>
 
-<p>Please see code for the rest of my classes.</p>
+<p><img src="images\02.jpg"></p>
+
+<p><img src="images\03.jpg"></p>
+
+<p><img src="images\04.jpg"></p>
+
+<p><img src="images\05.jpg"></p>
