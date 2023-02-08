@@ -63,20 +63,20 @@
     role="tabpanel"
     aria-label="students"
     aria-labelledby="ex1-tab-1">
-    <?php include('tabs/students.php'); ?>
+    <?php include('content/tabs/students.php'); ?>
   </div>
 
   <div class="tab-pane fade" id="ex1-tabs-2" role="tabpanel" aria-labelledby="ex1-tab-2">
-  <?php include('tabs/teachers.php'); ?>
+  <?php include('content/tabs/teachers.php'); ?>
   </div>
   <div class="tab-pane fade" id="ex1-tabs-3" role="tabpanel" aria-labelledby="ex1-tab-3">
-  <?php include('tabs/subjects.php'); ?>
+  <?php include('content/tabs/subjects.php'); ?>
   </div>
   <div class="tab-pane fade" id="ex1-tabs-4" role="tabpanel" aria-labelledby="ex1-tab-4">
-  <?php include('tabs/student_subjects.php'); ?>
+  <?php include('content/tabs/student_subjects.php'); ?>
   </div>
   <div class="tab-pane fade" id="ex1-tabs-5" role="tabpanel" aria-labelledby="ex1-tab-5">
-  <?php include('tabs/teacher_subjects.php'); ?>
+  <?php include('content/tabs/teacher_subjects.php'); ?>
   </div>
 </div>
 
